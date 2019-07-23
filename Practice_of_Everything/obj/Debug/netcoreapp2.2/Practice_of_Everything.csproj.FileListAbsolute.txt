@@ -1,0 +1,11 @@
+D:\OOPVisualStudioCodes\Practice_of_Everything\obj\Debug\netcoreapp2.2\Practice_of_Everything.csprojAssemblyReference.cache
+D:\OOPVisualStudioCodes\Practice_of_Everything\obj\Debug\netcoreapp2.2\Practice_of_Everything.csproj.CoreCompileInputs.cache
+D:\OOPVisualStudioCodes\Practice_of_Everything\obj\Debug\netcoreapp2.2\Practice_of_Everything.AssemblyInfoInputs.cache
+D:\OOPVisualStudioCodes\Practice_of_Everything\obj\Debug\netcoreapp2.2\Practice_of_Everything.AssemblyInfo.cs
+D:\OOPVisualStudioCodes\Practice_of_Everything\bin\Debug\netcoreapp2.2\Practice_of_Everything.deps.json
+D:\OOPVisualStudioCodes\Practice_of_Everything\bin\Debug\netcoreapp2.2\Practice_of_Everything.runtimeconfig.json
+D:\OOPVisualStudioCodes\Practice_of_Everything\bin\Debug\netcoreapp2.2\Practice_of_Everything.runtimeconfig.dev.json
+D:\OOPVisualStudioCodes\Practice_of_Everything\bin\Debug\netcoreapp2.2\Practice_of_Everything.dll
+D:\OOPVisualStudioCodes\Practice_of_Everything\bin\Debug\netcoreapp2.2\Practice_of_Everything.pdb
+D:\OOPVisualStudioCodes\Practice_of_Everything\obj\Debug\netcoreapp2.2\Practice_of_Everything.dll
+D:\OOPVisualStudioCodes\Practice_of_Everything\obj\Debug\netcoreapp2.2\Practice_of_Everything.pdb

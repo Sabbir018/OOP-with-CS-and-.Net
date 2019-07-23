@@ -1,0 +1,11 @@
+D:\OOPExample\bin\Debug\netcoreapp2.2\OOPExample.deps.json
+D:\OOPExample\bin\Debug\netcoreapp2.2\OOPExample.runtimeconfig.json
+D:\OOPExample\bin\Debug\netcoreapp2.2\OOPExample.runtimeconfig.dev.json
+D:\OOPExample\bin\Debug\netcoreapp2.2\OOPExample.dll
+D:\OOPExample\bin\Debug\netcoreapp2.2\OOPExample.pdb
+D:\OOPExample\obj\Debug\netcoreapp2.2\OOPExample.csprojAssemblyReference.cache
+D:\OOPExample\obj\Debug\netcoreapp2.2\OOPExample.csproj.CoreCompileInputs.cache
+D:\OOPExample\obj\Debug\netcoreapp2.2\OOPExample.AssemblyInfoInputs.cache
+D:\OOPExample\obj\Debug\netcoreapp2.2\OOPExample.AssemblyInfo.cs
+D:\OOPExample\obj\Debug\netcoreapp2.2\OOPExample.dll
+D:\OOPExample\obj\Debug\netcoreapp2.2\OOPExample.pdb
